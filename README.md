@@ -22,8 +22,8 @@ Make sure you have the following software installed before proceeding:
 1. **Clone the Repository:**
 
    ```bash
-   git clone https://github.com/your-username/media-server.git
-   cd media-server
+   git clone https://github.com/adesalawu/mediaserver.git
+   cd mediaserver
    ```
 
 2. **Set Up Environment Variables:**
